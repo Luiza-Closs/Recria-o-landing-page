@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.fundo-rosa{
+    background-color: #ffdbe4;
+}
+iframe{
+    max-width: 560px;
+    max-height: 315px;
+}
+.btn{
+    
+}
